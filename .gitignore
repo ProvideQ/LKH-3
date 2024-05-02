@@ -1,0 +1,5 @@
+#ignore the LKH binary (is build via the make file)
+LKH
+
+#ignore DS_Store (Mac specific files)
+.DS_Store
